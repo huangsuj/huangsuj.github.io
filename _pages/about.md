@@ -7,7 +7,7 @@ subtitle: Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer 
 profile:
   align: right
   image: ZhaoliangChen.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>504-1</p>
     <p>Building 2, College of Computer and Data Science, Fuzhou University</p>
