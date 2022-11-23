@@ -17,8 +17,12 @@
       institution: College of Computer and Data Science, Fuzhou University, China
       year: 2019 - 2021
       description:
-        - Supervised by Prof. Wenzhong Guo and Prof. Shiping Wang
-
+        - Advised by Prof. Wenzhong Guo and Prof. Shiping Wang
+    - title: B.S.
+      institution: College of Mathematics and Computer Science, Fuzhou University, China
+      year: 2015 - 2019
+      description:
+        - Advised by Prof. Fei Chen
 
 
 - title: Honors and Awards
@@ -26,18 +30,6 @@
   contents:
     - year: 2022
       items: 
-        - 博士研究生国家奖学金
+        - National scholarship for Postgraduates （博士研究生国家奖学金）
 
-
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
 
