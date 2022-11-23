@@ -32,4 +32,7 @@
       items: 
         - National scholarship for Postgraduates （博士研究生国家奖学金）
 
-
+- title: Academic Service
+  type: list
+  contents:
+    - <u>Reviewer:</u> IEEE TSMC, Information Sciences, Artificial Intelligence Review, etc.
