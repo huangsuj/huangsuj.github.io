@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Abount
+title: About
 permalink: /
 subtitle: Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer and Data Science, Fuzhou University</a>, chenzl23@outlook.com
 
