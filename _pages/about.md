@@ -9,7 +9,7 @@ profile:
   image: ZhaoliangChen.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>email: chenzl23@outlook.com</p>
+    <p>email: chenzl23[AT]outlook[DOT]com</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
