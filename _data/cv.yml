@@ -13,13 +13,19 @@
       institution: College of Computer and Data Science, Fuzhou University, China
       year: 2021 - now
       description:
-        Supervised by Prof. Wenzhong Guo and Prof. Shiping Wang
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - Master-doctor combined program without a master degree
+        - Advised by Prof. Wenzhong Guo and Prof. Shiping Wang
+    - title: Visting Student
+      institution: Faculty of Computer Science, University of Vienna, Austria.
+      year: 2022 - 2023
       description:
-        - Description 1.
-        - Description 2.
+        - Funded by China Scholarship Council (CSC)
+        - Advised by Prof. Claudia Plant
+    - title: M.S.
+      institution: College of Computer and Data Science, Fuzhou University, China
+      year: 2019 - 2021
+      description:
+        - Supervised by Prof. Wenzhong Guo and Prof. Shiping Wang
 
 - title: Experience
   type: time_table
