@@ -9,3 +9,5 @@ Forked from alshedivat/al-folio.
 .includes: 存放内嵌html组件
 
 config.yml内开启blog：blog.nav.title
+
+publication.md 修改索引年份
