@@ -6,7 +6,7 @@ subtitle: 陈赵亮, Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College o
 
 profile:
   align: right
-  image: ZhaoliangChen01.jpg
+  image: ZhaoliangChen.jpg
   image_circular: true # crops the image to make it circular
   address: >
     <p>email: chenzl23@outlook.com</p>
