@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer and Data Science, Fuzhou University</a>
+subtitle: 陈赵亮, Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer and Data Science, Fuzhou University</a>
 
 profile:
   align: right
