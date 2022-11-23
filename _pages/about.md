@@ -2,16 +2,14 @@
 layout: about
 title: About
 permalink: /
-subtitle: Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer and Data Science, Fuzhou University</a>, chenzl23@outlook.com
+subtitle: Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer and Data Science, Fuzhou University</a>
 
 profile:
   align: right
   image: ZhaoliangChen.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    <p>504-1</p>
-    <p>Building 2, College of Computer and Data Science, Fuzhou University</p>
-    <p>Fuzhou, Fujian, China</p>
+    <p>email: chenzl23@outlook.com</p>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
