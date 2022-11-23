@@ -1,6 +1,6 @@
 # My home page
 
-Forked from alshedivat/al-folio.
+修改自alshedivat/al-folio.
 
 .layouts: 修改页面结构
 .pages: 修改页面内容
