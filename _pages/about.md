@@ -6,7 +6,7 @@ subtitle: Ph.D. Student, <a href='https://ccds.fzu.edu.cn/'>College of Computer 
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: ZhaoliangChen.jpg
   image_circular: false # crops the image to make it circular
   address: >
     <p>504-1</p>
