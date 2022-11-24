@@ -21,6 +21,7 @@ nav_order: 2
 - [Sklearn datasets](https://scikit-learn.org/stable/datasets.html)
 - [Huggingface datasets](https://huggingface.co/docs/datasets/index)
 - [Google dataset search](https://datasetsearch.research.google.com/)
+- [Open Graph Benchmark](https://ogb.stanford.edu/)
 
 ## Books
 - [Matrix cookbook](https://github.com/chenzl23/chenzl23.github.io/tree/master/assets/pdf/matrixCookbook.pdf)
