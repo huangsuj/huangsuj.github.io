@@ -24,4 +24,4 @@ nav_order: 2
 - [Open Graph Benchmark](https://ogb.stanford.edu/)
 
 ## Books
-- [Matrix cookbook](https://github.com/chenzl23/chenzl23.github.io/tree/master/assets/pdf/matrixCookbook.pdf)
+- [Matrix cookbook](matrixCookbook.pdf)
