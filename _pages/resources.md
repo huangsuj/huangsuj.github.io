@@ -16,7 +16,7 @@ nav_order: 2
 - [Datasetlist](https://www.datasetlist.com/)
 - [Kaggle](https://www.kaggle.com/)
 - [Papers with code](https://paperswithcode.com/datasets)
-- [TUDataset](https://chrsmrrs.github.io/datasets/) - Graph data sets
+- [TUDataset](https://chrsmrrs.github.io/datasets/) - Graph datasets
 - [Pytorch datasets](https://pytorch.org/vision/stable/datasets.html)
 - [Sklearn datasets](https://scikit-learn.org/stable/datasets.html)
 - [Huggingface datasets](https://huggingface.co/docs/datasets/index)
