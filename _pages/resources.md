@@ -24,4 +24,4 @@ nav_order: 2
 - [Open Graph Benchmark](https://ogb.stanford.edu/)
 
 ## Books
-- [Matrix cookbook](matrixCookbook.pdf)
+- [Matrix cookbook](https://ece.uwaterloo.ca/~ece602/MISC/matrixcookbook.pdf)
