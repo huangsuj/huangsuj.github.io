@@ -8,7 +8,7 @@ nav_order: 2
 ---
 
 ## Some Useful Tools
-- [IKFB (卷王快乐本)](https://github.com/Creator-SN/IKFB): an integrated management system for papers and literature, developed by Aleversn.
+- [Fabulous](https://github.com/Creator-SN/Fabulous): an integrated management system for papers and literature, developed by Aleversn.
 - [Matrix Calculus](https://www.matrixcalculus.org/?tdsourcetag=s_pctim_aiomsg)
 - [Latex Table Convert](https://tableconvert.com/)
 - [Latex Table Generator](https://www.tablesgenerator.com/)
