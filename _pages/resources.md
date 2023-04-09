@@ -14,7 +14,7 @@ nav_order: 2
 - [Latex Table Generator](https://www.tablesgenerator.com/)
 - [Excel2latex](https://ctan.org/pkg/excel2latex?lang=en): a package for transforming excel tables into latex codes.
 
-## Useful links
+## Useful Links
 - [CCF Recommendation List](https://ccf.atom.im/)
 - [CCF Recommendation Conference Deadlines](https://ccfddl.github.io/)
 
