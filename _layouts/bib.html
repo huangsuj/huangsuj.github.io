@@ -123,11 +123,12 @@
           {%- capture periodical -%}{{ entrytype }}{{ entrymonth }}{{ entryyear }}{%- endcapture -%}
           <div class="periodical">
             {{ periodical | strip }}
-            {%- if entry.jnote -%}
-              <em>{{ entry.jnote }}</em>
-            {%- capture entryjnote -%}{{entry.jnote}}{%- endcapture -%}
-          {%- endif -%}
           </div>
+          {%- if entry.jnote -%}
+            <div class="periodical">
+              <em>{{ entry.jnote }}</em>
+            </div>
+          {%- endif -%}
         {%- endif %}
         
           <!-- Links/Buttons -->
