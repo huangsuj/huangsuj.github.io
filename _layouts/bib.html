@@ -115,7 +115,8 @@
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.jnote -%}
-              <em>entry.jnote</em>
+              <em>{{ entry.jnote }}</em>
+              <em>{{ entry.year }}</em>
               {%- capture entryjnote -%}{{entry.jnote}}{%- endcapture -%}
           {%- endif -%}
           {%- if entry.month -%}
