@@ -114,6 +114,9 @@
           {%- else -%}
             {%- capture entrytype -%}{%- endcapture -%}
           {%- endif -%}
+          {%- if entry.jnote -%}
+              {%- capture entryjnote -%}<em>{{ " " }}{{ entry.jnote}}</em>{%- endcapture -%}
+          {%- endif -%}
           {%- if entry.month -%}
             {%- capture entrymonth -%}{{ " " }}{{ entry.month | capitalize }}{%- endcapture -%}
           {%- endif -%}
