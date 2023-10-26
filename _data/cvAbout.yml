@@ -1,17 +1,17 @@
 - title: Education
   type: time_table
   contents:
-    - title: M.E.
+    - title: M.E., Artificial Intelligence
       institution: College of Computer and Data Science, Fuzhou University, China
       year: 2021 - now
       description:
         - Supervised by Prof. Shiping Wang
-    - title: Visiting Student
+    - title: Visiting Student/Research Assistant
       institution: School of Data Science, The Chinese University of Hong Kong (Shenzhen), China.
       year: 2023
       description:
         - Supervised by Prof. Jicong Fan
-    - title: B.S.
+    - title: B.S., Computer Science
       institution: College of Computer and Data Science, Fuzhou University, China
       year: 2017 - 2021
       description:
@@ -21,15 +21,21 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2023
+      items: 
+        - China National Scholarship of Postgraduates
+    - year: 2023
+      items: 
+        - First Prize of Outstanding Postgraduate Midterm Scholarship of Fuzhou University
     - year: 2022
       items: 
-        - National Scholarship for Postgraduates
-    - year: 2019 - 2021
+        - First Prize of the 9th Cross-strait Information Service Innovation Contest
+    - year: 2021 - 2022
       items: 
-        - The Grand Prize Scholarship for Postgraduates of Fuzhou University
-    - year: 2017 - 2019
+        - First Prize of Outstanding Postgraduate Freshmen Scholarship of Fuzhou University
+    - year: 2019
       items: 
-        - The First Prize Scholarship for Undergraduate Students of Fuzhou University
+        - Gold Award of t he 5th China International College Students "Internet+" Innovation and Entrepreneurship Competition
 
 - title: Academic Service
   type: list
