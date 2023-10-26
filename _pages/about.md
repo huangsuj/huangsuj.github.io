@@ -7,7 +7,7 @@ subtitle: 吴之昊, Master Student, <a href='https://ccds.fzu.edu.cn/'>College 
 profile:
   align: right
   image: ZhihaoWu.jpg
-  image_circular: true # crops the image to make it circular
+  image_circular: false # crops the image to make it circular
   address: >
     <p>zhihaowu1999[AT]gmail[DOT]com</p>
 
@@ -20,4 +20,4 @@ I am currently a Master student in College of Computer and Data Science, Fuzhou 
 
 <!-- [个人简历（中文）](https://chenzl23.github.io/assets/pdf/Curriculum Vitae_CN.pdf)/ [Curriculum Vitae (English)](https://chenzl23.github.io/assets/pdf/Curriculum Vitae.pdf) (updated at 18.10.2023). -->
 
-**My research interests:** Graph neural networks, Anomaly Detection, Semi-supervised and Unsupervised Learning.
+**My research interests:** Graph Neural Networks, Anomaly Detection, Semi-supervised and Unsupervised Learning.
