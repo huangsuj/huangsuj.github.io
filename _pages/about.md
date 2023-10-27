@@ -20,6 +20,7 @@ I am currently a Master student in College of Computer and Data Science, Fuzhou 
 
 :blue_book:[Google Scholar Page](https://scholar.google.com/citations?user=QDlGhPsAAAAJ)  |  :notebook:[Github Page](https://github.com/ZhihaoWu99)  |  :closed_book:[DBLP Page](https://dblp.org/pid/27/8792-3.html)
 
+
 <!-- [个人简历（中文）](https://chenzl23.github.io/assets/pdf/Curriculum Vitae_CN.pdf)/ [Curriculum Vitae (English)](https://chenzl23.github.io/assets/pdf/Curriculum Vitae.pdf) (updated at 18.10.2023). -->
 
 **My research interests:** Graph Neural Networks, Semi-supervised and Unsupervised Learning.
