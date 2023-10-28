@@ -7,7 +7,7 @@ subtitle: 吴之昊, Master Student, <a href='https://ccds.fzu.edu.cn/'>College 
 profile:
   align: right
   image: ZhihaoWu.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   address: >
     <p>zhihaowu1999[AT]gmail[DOT]com</p>
 
