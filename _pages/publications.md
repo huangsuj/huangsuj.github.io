@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My published papers and preprints.
+description: *Corresponding author &nbsp;&nbsp;&nbsp; &dagger;Advisor as the first author
 years: [2023]
 nav: true
 nav_order: 1
