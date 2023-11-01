@@ -3,10 +3,10 @@
 # -----------------------------------------------------------------------------
 
 title: blank # the website title (if blank, full name will be used instead)
-first_name: Zhihao
+first_name: Sujia
 middle_name: 
-last_name: WU
-email: 
+last_name: Huang
+email: hsujia2021@163.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
@@ -17,7 +17,7 @@ keywords: machine learning  # add your own keywords or leave empty
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🌠  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url: https://zhihaowu99.github.io # the base hostname & protocol for your site
+url: https://huangsuj.github.io/ # the base hostname & protocol for your site
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -97,7 +97,7 @@ discord_id: # your discord id (18-digit unique numerical identifier)
 
 contact_note: >
 
-  Welcome to Zhihao WU's homepage.
+  Welcome to Sujia Huang's homepage.
 # -----------------------------------------------------------------------------
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
@@ -232,8 +232,8 @@ display_tags: ['formatting', 'images', 'links', 'math', 'code'] # this tags will
 
 scholar:
 
-  last_name: [Wu]
-  first_name: [Zhihao]
+  last_name: [Huang]
+  first_name: [Sujia]
 
   style: apa
   locale: en
